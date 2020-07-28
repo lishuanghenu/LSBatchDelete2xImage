@@ -1,0 +1,1 @@
+# LSBatchDelete2xImage
